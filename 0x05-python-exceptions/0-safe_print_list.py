@@ -8,4 +8,5 @@ def safe_print_list(my_list=[], x=0):
         except:
             break
         i = i+1
+        print("")
     return i
