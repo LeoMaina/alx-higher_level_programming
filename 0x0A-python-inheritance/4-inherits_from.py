@@ -4,6 +4,7 @@ Function:
     inherits_from: returns true or false if obj is an isntance of a class
 """
 
+
 def inherits_from(obj, a_class):
     """ Function that returns True/False if obj is an instance of a_class
 

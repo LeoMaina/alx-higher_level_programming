@@ -4,6 +4,7 @@ Class:
     MyInt: inherits from the int class
 """
 
+
 class MyInt(int):
     """ Class that inherits from class int"""
 

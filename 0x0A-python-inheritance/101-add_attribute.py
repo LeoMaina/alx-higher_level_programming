@@ -4,6 +4,7 @@ Function:
     add attributes: add a new attribute to an object
 """
 
+
 def add_attribute(obj, name, value):
     """ Function that adds a new attribute to an object
 
