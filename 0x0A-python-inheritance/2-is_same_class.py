@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Function: 
+Function:
     is_same_class: returns true or false if obj is atype of a class
 """
 
